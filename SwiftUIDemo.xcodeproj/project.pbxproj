@@ -14,6 +14,7 @@
 		1AD2E71C2357A128005319BE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AD2E71B2357A128005319BE /* Preview Assets.xcassets */; };
 		1AD2E71F2357A128005319BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AD2E71D2357A128005319BE /* LaunchScreen.storyboard */; };
 		1AD2E72A2357A128005319BE /* SwiftUIDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AD2E7292357A128005319BE /* SwiftUIDemoTests.swift */; };
+		1AD2E7352357A158005319BE /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AD2E7342357A158005319BE /* Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		1AD2E7252357A128005319BE /* SwiftUIDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AD2E7292357A128005319BE /* SwiftUIDemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoTests.swift; sourceTree = "<group>"; };
 		1AD2E72B2357A128005319BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1AD2E7342357A158005319BE /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				1AD2E7122357A121005319BE /* AppDelegate.swift */,
 				1AD2E7142357A121005319BE /* SceneDelegate.swift */,
 				1AD2E7162357A121005319BE /* ContentView.swift */,
+				1AD2E7342357A158005319BE /* Data.swift */,
 				1AD2E7182357A128005319BE /* Assets.xcassets */,
 				1AD2E71D2357A128005319BE /* LaunchScreen.storyboard */,
 				1AD2E7202357A128005319BE /* Info.plist */,
@@ -211,6 +214,7 @@
 				1AD2E7132357A121005319BE /* AppDelegate.swift in Sources */,
 				1AD2E7152357A121005319BE /* SceneDelegate.swift in Sources */,
 				1AD2E7172357A121005319BE /* ContentView.swift in Sources */,
+				1AD2E7352357A158005319BE /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
